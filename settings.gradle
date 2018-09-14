@@ -1,0 +1,1 @@
+include ':app', ':BasicModel', ':FragmentScore', ':FragmentRecommend', ':FragmentChange'
